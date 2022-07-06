@@ -1,0 +1,38 @@
+/* SUBHEADER START-------------------------------*/
+.subheader{
+    background-color:#232f3e;
+    width: 100%;
+    height: 40px;
+    color: white;
+    padding: 3px;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 500;
+}
+.subheader div{
+    /* min-width:20px; */
+    border: 1px solid white;
+    /* margin-left: 20px; */
+
+    font-size : large;
+    /* font-weight: 900; */
+    height:30px;
+    /* width: 60px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+
+}
+.subheader>Link{
+    text-decoration: none;
+    color:white;
+
+}
+.subheader div:hover{
+    border: 1px solid greenyellow;
+}
+/* SUBHEADER END---------------------------*/
