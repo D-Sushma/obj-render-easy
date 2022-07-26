@@ -4,7 +4,6 @@
 // first we create Object.js component and make object. than import in app.js
 
 
-
 import './App.css';
 import Header from './components/Header'
 // 2. import object.js----------------------
